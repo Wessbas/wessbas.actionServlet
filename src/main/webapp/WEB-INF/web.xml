@@ -17,7 +17,7 @@
     
  <filter>
    <filter-name>sessionAndTraceRegistrationFilter</filter-name>
-   <filter-class>kieker.monitoring.probe.servlet.SessionAndTraceRegistrationFilterSPECjEnterprise</filter-class>
+   <filter-class>io.github.wessbas.kiekerExtensions.probe.SessionAndTraceRegistrationFilterSPECjEnterprise</filter-class>
  </filter>
  
  <filter-mapping>
